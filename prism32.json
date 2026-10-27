@@ -1,10 +1,10 @@
 {
-  "version": "7.2.5",
+  "version": "7.2.6",
   "description": "Self-extending polymorphic AI super-agent",
   "homepage": "https://github.com/MegaDyneSystems/prism32",
   "license": "Apache-2.0",
-  "url": "https://github.com/MegaDyneSystems/prism32/raw/v7.2.5/prism32.py",
-  "hash": "934204e94c8abee48c5cde6376a0ae9b287a5b01f9a04fc64289d4b6957638bb",
+  "url": "https://github.com/MegaDyneSystems/prism32/raw/v7.2.6/prism32.py",
+  "hash": "a96c3bfdfac78182b4751a333c3c4a81176d12505ffd04e05543011dfdd2f28c",
   "depends": "python",
   "pre_install": [
     "Set-Content -Path \"$dir\\prism32.cmd\" -Value '@echo off' -Encoding ASCII",
